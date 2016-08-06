@@ -52,8 +52,8 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "TEDx <typeout> 2016"
-eventDate: "3 Kasım, 2016"
-typeoutTextValues: '"", "METU", "ODTÜ", "METU ARGE", "ODTÜ ARGE"'
+eventDate: "25 Aralik 2016"
+typeoutTextValues: '"", "METUAnkara",  "ODTÜAnkara"'
 typeoutFallback: "METU"
 heroButtons:
  - {permalink: "/#tickets", text: "Bilet Al"}
