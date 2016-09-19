@@ -56,7 +56,7 @@ eventDate: "25 Aralik 2016"
 typeoutTextValues: '"", "METUAnkara",  "VOlkanTest"'
 typeoutFallback: "METU"
 heroButtons:
- - {permalink: "/#tickets", text: "Bilet Al"}
+ - {permalink: "/#tickets", text: "Bize Katil"}
 
 # About Block
 aboutTitle: "TEDxMETUAnkara Hakkinda"
