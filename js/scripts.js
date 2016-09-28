@@ -30,7 +30,7 @@
             var logo = $('#logo-header .logo');
             var buyButton = $('.right-nav-button');
             var topOffset = header.height() + $('.track-header').height();
-
+/*
             if (scroll >= 100) {
                 header.addClass('after-scroll');
                 logo.removeClass('logo-light').addClass('logo-dark');
@@ -38,7 +38,7 @@
                 header.removeClass('after-scroll');
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
-
+*/
             if (scroll >= $('.top-section').height() && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
             } else if (scroll < $('.top-section').height() && $(window).width() > 767){
