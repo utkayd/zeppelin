@@ -19,10 +19,10 @@
         if ($(window).height() < 512) {
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
         }
-        if ($(window).scrollTop() >= 100) {
+      //  if ($(window).scrollTop() >= 0) {
             $('#top-header').addClass('after-scroll');
             $('#logo-header .logo').removeClass('logo-light').addClass('logo-dark');
-        }
+        //}
 
         $(window).scroll(function() {
             var scroll = $(this).scrollTop();
