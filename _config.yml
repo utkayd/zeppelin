@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "ODTÜ Araştırma ve Geliştirme Topluluğu"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "Ar-Ge topluluğu ODTÜ'nün dünyadaki sesidir"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -21,9 +21,9 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "ODTÜ AR-GE
+organizerAlternateName: "ODTÜ Araştırma ve Geliştirme Topluluğu"
+organizerDescription: "ODTÜ Ar-Ge topluluğu tüm öğrencilere açık olan ve dünya genelinde etkinlikler düzenleyen bir topluluktur."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
@@ -42,13 +42,13 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Ana Sayfa"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/schedule/", text: "Eğitimler"}
+ - {permalink: "/speakers/", text: "Destekçilerimiz"}
+ - {permalink: "/team/", text: "Takımımız"}
+ - {permalink: "/logistics/", text: "İletişim"}
+
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -65,32 +65,32 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "ODTÜ Ar-Ge Topluluğu Hakkında"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Dayanışma", image: "conference.jpg", text: "Yüksek seviyede bilgi aktarımı ve birbirine destek olma isteği ile büyüyen bir topluluk!" }
+ - {title: "Girişimcilik", image: "workshop.jpg", text: "Girişimci ruhu ve azmi ile yapamayacağı hiçbir şey olmadığına inanan yenilikçi bir topluluk!" }
+ - {title: "Yaratıcılık", image: "hackathon.jpg", text: "Bulduğu kusursuz fikir ve çözümlerle maximum verimi her aşamada bulabilen bir topluluk!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "800", specialCharacter: "+", info: "KATILIMCI", detail: "Türkiye'nin Her Yerinden"}
+ - {count: "48", specialCharacter: "+", info: "SAAT", detail: "Unutulmaz Eğitim"}
+ - {count: "20", specialCharacter: "+", info: "SEÇKİN", detail: "Eğitmen Desteği"}
+ 
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Son Haberler"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Bizi Destekleyenler"
+rockstarSpeakersButtonText: "Hepsini Gör"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+locationBlockTitle: "Yer"
+eventLocationName: "ODTÜ KKM"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
 eventAddressLocality: "Lviv"
@@ -120,15 +120,15 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizatörler"
+partnersTitle: "Partnerler"
+partnersC4sponsorsButton: "Bize Sponsor Ol"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Bizden Haberdar Ol"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Topluluğumuzu takip etmen veya bizim aramıza katılmak için mail adresini yazman yeterli!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
