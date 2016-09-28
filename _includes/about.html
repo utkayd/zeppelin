@@ -9,7 +9,7 @@
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-12 col-xs-12">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.text }}</h5>
+                        <h6 style="line-height: 2;">{{ about.text }}</h6>
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
