@@ -61,9 +61,7 @@ heroButtons:
 # About Block
 aboutTitle: "TEDxMETUAnkara Hakkinda"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {text: "‘En iyi’ kavramını reddederek, her zaman daha iyisine odaklanarak sadece ODTÜ’de değil, ulusal ve uluslararası platformda yenilikçi, yaratıcı, girişimci ve sorun çözmeye odaklı bir gelecek yaratmak; aynı zamanda bu geleceğe katkı sağlayacak oluşumların ortaya çıkmasında etkili olmak vizyonuyla kurulan ODTÜ Araştırma ve Geliştirme topluluğu, 2.000’in üzerinde TED video arşivinin de gücüyle TEDxMETUAnkara’yı düzenlemektedir. Etkinliğin konuşmacıları ve performansları ile yeni fikirler, ilham veren konular ve heyecan verici konuşmalarla zenginleşen bir dünyayı yaşamanızı sağlayan TEDxMETUAnkara; 25 Aralık 2016’da gerçekleşecek olup Ankara’da düzenlenecek en büyük TEDx organizasyonudur. “Gelgitlere Karşı” olarak belirlenen temasında kuşatıcı faktörlerin yıldırıcı gücüne karşı cesaret bulmayı amaçlamaktadır.  Alanında uzman kişiler tarafından verilecek fikirlerin genç beyinlere ilham vereceği bu platform ODTÜ Kemal Kurdaş Salonu’nda sahne alacaktır." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
