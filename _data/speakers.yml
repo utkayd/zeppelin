@@ -1,6 +1,6 @@
 - 
   id: 3
-  name: "?"
+  name: ""
   surname: ""
   company: ""
   title: "Yakinda"
@@ -11,7 +11,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "?"
+  name: ""
   surname: ""
   company: ""
   title: "Yakinda"
@@ -22,7 +22,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 5
-  name: "?"
+  name: ""
   surname: ""
   company: ""
   title: "Yakinda"
@@ -33,7 +33,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 6
-  name: "?"
+  name: ""
   surname: ""
   company: ""
   title: "Yakinda"
