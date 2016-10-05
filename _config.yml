@@ -76,8 +76,8 @@ latestNewsTitle: "Daha Fazlasi"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Konusmacilar"
+rockstarSpeakersButtonText: "Tum Konusmacilari Gor"
 
 # Location Block
 locationBlockTitle: "Yeri"
