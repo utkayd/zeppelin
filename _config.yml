@@ -66,9 +66,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "850+", specialCharacter: "+", info: "katılımcı", detail: "Türkiye'nin her yerinden"}
- - {count: "6+", specialCharacter: "+", info: "saatlik", detail: "unutulmaz bir TEDx deneyimi"}
- - {count: "10+", specialCharacter: "+", info: "seçkin", detail: "konuşmacı"}
+ - {count: "850", specialCharacter: "+", info: "katılımcı", detail: "Türkiye'nin her yerinden"}
+ - {count: "6", specialCharacter: "+", info: "saatlik", detail: "unutulmaz bir TEDx deneyimi"}
+ - {count: "10", specialCharacter: "+", info: "seçkin", detail: "konuşmacı"}
 
 # Latest News Block
 latestNewsTitle: "Daha Fazlasi"
