@@ -56,7 +56,7 @@ eventDate: "25 Aralik 2016"
 typeoutTextValues: '"", "METUAnkara",  " "'
 typeoutFallback: "METU"
 heroButtons:
- - {permalink: "/#tickets", text: "Bize Katil"}
+ - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSdQUa1h9ETka1SM3_LWWQOoWsxlEZLyhtUj1Fz1nK9BPLaf0w/viewform?c=0&w=1", text: "Bize Katil"}
 
 # About Block
 aboutTitle: "TEDxMETUAnkara Hakkinda"
@@ -66,12 +66,12 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "800", specialCharacter: "+", info: "katılımcı", detail: "Türkiye'nin her yerinden"}
- - {count: "8", specialCharacter: "+", info: "saatlik", detail: "unutulmaz bir TEDx deneyimi"}
- - {count: "20", specialCharacter: "+", info: "seçkin", detail: "konuşmacı"}
+ - {count: "850+", specialCharacter: "+", info: "katılımcı", detail: "Türkiye'nin her yerinden"}
+ - {count: "6+", specialCharacter: "+", info: "saatlik", detail: "unutulmaz bir TEDx deneyimi"}
+ - {count: "10+", specialCharacter: "+", info: "seçkin", detail: "konuşmacı"}
 
 # Latest News Block
-latestNewsTitle: "Son Haberler"
+latestNewsTitle: "Daha Fazlasi"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -112,14 +112,14 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizatorler"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Partnerler"
+partnersC4sponsorsButton: "Sponsor Ol!"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Gelismeleri Takip Et"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Kayitlar yakin zamanda aciklanacaktir. Bilet sayilari sinirlidir. Takipte kalin!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -171,14 +171,14 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Linkler"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://facebook.com/argetoplulugu", text: "Arge Toplulugu"}
+   - {link: "https://facebook.com/tedxmetuankara", text: "TedxMetu"}
  -
-  title: "Contacts"
+  title: "Iletisim"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:tedx@metu.edu.tr", text: "tedx@metu.edu.tr"}
  -
   title: "FAQ"
   links:
