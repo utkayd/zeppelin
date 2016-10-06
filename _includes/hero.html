@@ -45,6 +45,13 @@
 	height:100%;
 }
 </style>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
+<script type='text/javascript'>
+	 var player;
+        function onYouTubeIframeAPIReady()
+        {player=new YT.Player('myVideo',{events:{onReady:onPlayerReady}})}
+        function onPlayerReady(event){player.mute();player.setVolume(0);player.playVideo();}
+</script>
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
@@ -89,13 +96,10 @@
     </a>
     </div>
 </section>
-	    <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
+	    
                
 <script>
-	 var player;
-        function onYouTubeIframeAPIReady()
-        {player=new YT.Player('myVideo',{events:{onReady:onPlayerReady}})}
-        function onPlayerReady(event){player.mute();player.setVolume(0);player.playVideo();}
+	
 	
 	
     function getTimeRemaining(endtime) {
