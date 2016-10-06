@@ -94,7 +94,7 @@
 <script>
 	 var player;
         function onYouTubeIframeAPIReady()
-        {player=new YT.Player('playerId',{events:{onReady:onPlayerReady}})}
+        {player=new YT.Player('myVideo',{events:{onReady:onPlayerReady}})}
         function onPlayerReady(event){player.mute();player.setVolume(0);player.playVideo();}
 	
 	
