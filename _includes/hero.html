@@ -89,7 +89,15 @@
     </a>
     </div>
 </section>
+	    <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
+               
 <script>
+	 var player;
+        function onYouTubeIframeAPIReady()
+        {player=new YT.Player('playerId',{events:{onReady:onPlayerReady}})}
+        function onPlayerReady(event){player.mute();player.setVolume(0);player.playVideo();}
+	
+	
     function getTimeRemaining(endtime) {
   var t = Date.parse(endtime) - Date.parse(new Date());
   var seconds = Math.floor((t / 1000) % 60);
