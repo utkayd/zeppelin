@@ -43,7 +43,6 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Anasayfa"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/team/", text: "Ekip"}
