@@ -54,8 +54,6 @@ heroTitle: "TEDx <typeout> 2016"
 eventDate: "25 Aralik 2016"
 typeoutTextValues: '"", "METUAnkara",  " "'
 typeoutFallback: "METU"
-heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQUa1h9ETka1SM3_LWWQOoWsxlEZLyhtUj1Fz1nK9BPLaf0w/viewform?c=0&w=1", text: "Bize Katil"}
 
 # About Block
 aboutTitle: "TEDxMETUAnkara Hakkinda"
