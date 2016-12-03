@@ -1,44 +1,44 @@
 - 
   id: 3
-  name: ""
-  surname: ""
+  name: "Adil"
+  surname: "Oran"
   company: ""
-  title: "Yakinda"
+  title: ""
   bio: ""
-  thumbnailUrl: null.jpg
+  thumbnailUrl: AOran resim.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: ""
-  surname: ""
+  name: "Banu"
+  surname: "Onaral"
   company: ""
-  title: "Yakinda"
+  title: ""
   bio: ""
-  thumbnailUrl: null.jpg
+  thumbnailUrl: Banu Onaral Foto.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 5
-  name: ""
-  surname: ""
+  name: "Burcu"
+  surname: "Karadağ"
   company: ""
-  title: "Yakinda"
+  title: ""
   bio: ""
-  thumbnailUrl: null.jpg
+  thumbnailUrl: burcukaradagfoto.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 6
-  name: ""
-  surname: ""
+  name: "Levent"
+  surname: "Ülgen"
   company: ""
-  title: "Yakinda"
+  title: ""
   bio: ""
-  thumbnailUrl: null.jpg
+  thumbnailUrl: Levent-Ulgen-yarin-sabah-11.35te-Turkmax-Gurmede-Sedefli-Lezzetlere-konuk-oluyor.-Sakin-kacirmayin-n-1.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
