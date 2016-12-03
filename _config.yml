@@ -56,7 +56,7 @@ typeoutTextValues: '"", "METUAnkara",  " "'
 typeoutFallback: "METU"
 
 # About Block
-aboutTitle: "TEDxMETUAnkara Hakkinda"
+aboutTitle: "TEDxMETUAnkara Hakkında"
 aboutBlock:
  - {text: "‘En iyi’ kavramını reddederek, her zaman daha iyisine odaklanarak sadece ODTÜ’de değil, ulusal ve uluslararası platformda yenilikçi, yaratıcı, girişimci ve sorun çözmeye odaklı bir gelecek yaratmak; aynı zamanda bu geleceğe katkı sağlayacak oluşumların ortaya çıkmasında etkili olmak vizyonuyla kurulan ODTÜ Araştırma ve Geliştirme topluluğu, 2.000’in üzerinde TED video arşivinin de gücüyle TEDxMETUAnkara’yı düzenlemektedir. Etkinliğin konuşmacıları ve performansları ile yeni fikirler, ilham veren konular ve heyecan verici konuşmalarla zenginleşen bir dünyayı yaşamanızı sağlayan TEDxMETUAnkara; 25 Aralık 2016’da gerçekleşecek olup Ankara’da düzenlenecek en büyük TEDx organizasyonudur. “Gelgitlere Karşı” olarak belirlenen temasında kuşatıcı faktörlerin yıldırıcı gücüne karşı cesaret bulmayı amaçlamaktadır.  Alanında uzman kişiler tarafından verilecek fikirlerin genç beyinlere ilham vereceği bu platform ODTÜ Kemal Kurdaş Salonu’nda sahne alacaktır." }
 
