@@ -75,15 +75,23 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "KONUŞMACILAR"
 rockstarSpeakersButtonText: "TAM KONUŞMACI LİSTESİ"
 
+
 # Location Block
 locationBlockTitle: "Yeri"
-eventLocationName: "ODTU KKM"a"
+eventLocationName: "ODTÜ KKM"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "Kemal Kurdaş Salonu"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
 eventStartTime: "2016-12-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2016-12-25T20:00"
 eventPlaceCoordinates: "39.8939792, 32.7860394"
 mapCenterCoordinates: "39.8939792, 32.7860394"
 mapMobileCenterCoordinates: "39.8939792, 32.7860394"
+
 
 # Venue Block
 venueBlockTitle: "KKM"
