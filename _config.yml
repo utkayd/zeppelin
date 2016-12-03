@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/team/", text: "Ekip"}
- - {permalink: "/logistics/", text: "Partnerler"}
+ - {permalink: "/partnerler/", text: "Partnerler"}
 
 # Hero Block
 heroImage: "hero.jpg"
