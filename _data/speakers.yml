@@ -8,7 +8,7 @@
   thumbnailUrl: adiloran.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    
 - 
   id: 4
   name: "Banu"
@@ -19,7 +19,7 @@
   thumbnailUrl: banuonaral.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    
 - 
   id: 5
   name: "Burcu"
@@ -30,7 +30,7 @@
   thumbnailUrl: burcukaradagfoto.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    
 - 
   id: 6
   name: "Levent"
@@ -41,4 +41,48 @@
   thumbnailUrl: leventulgen.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    
+- 
+  id: 7
+  name: "Çağla"
+  surname: "Büyük"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: caglabuyuk.jpg
+  rockstar: true
+  social: 
+- 
+  id: 8
+  name: "Mehmet"
+  surname: "Auf"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: mehmetauf.jpg
+  rockstar: true
+  social: 
+- 
+  id: 9
+  name: "Umutcan"
+  surname: "Duman"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: umutcanduman.jpg
+  rockstar: true
+  social: 
+- 
+  id: 10
+  name: "Selçuk"
+  surname: "Pehlivanoğlu"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: selcukpehlivanoglu.jpg
+  rockstar: true
+  social: 
+
+ 
+    
+    
