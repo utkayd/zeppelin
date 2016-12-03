@@ -160,26 +160,6 @@ ticketsOffers:
   soldOut: true
   soldOutText: "Sold Out"
 
-# Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Linkler"
-  links:
-   - {link: "http://facebook.com/argetoplulugu", text: "Arge Toplulugu"}
-   - {link: "https://facebook.com/tedxmetuankara", text: "TedxMetu"}
- -
-  title: "Iletisim"
-  links:
-   - {link: "mailto:tedx@metu.edu.tr", text: "tedx@metu.edu.tr"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "En Son Haberler"
