@@ -45,7 +45,7 @@
 - 
   id: 7
   name: "Çağla"
-  surname: "Büyük"
+  surname: "Büyükakçay"
   company: ""
   title: ""
   bio: ""
@@ -72,16 +72,7 @@
   thumbnailUrl: umutcanduman.jpg
   rockstar: true
   social: 
-- 
-  id: 10
-  name: "Selçuk"
-  surname: "Pehlivanoğlu"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: selcukpehlivanoglu.jpg
-  rockstar: true
-  social: 
+ 
 
  
     
