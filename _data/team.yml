@@ -1,60 +1,110 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Bilge"
+  surname: "Demirköz"
+  title: "Licensee"
+  thumbnailUrl: bilgedemirkoz.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Volkan"
+  surname: "Genç"
+  title: "Licensee"
+  thumbnailUrl: volkangenc.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Furkan"
+  surname: "Doğan"
+  title: "Co-Organizer"
+  thumbnailUrl: furkandogan.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  name: "Mertcan"
+  surname: "Gül"
+  title: "Co-Organizer"
+  thumbnailUrl: mertcangul.jpg
+  team: true
+  
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Şafak"
+  surname: "Öztürk"
+  title: "Project Manager"
+  thumbnailUrl: safakozturk.jpg
+  team: true
+- 
+  id: 8
+  name: "Yaren"
+  surname: "Erol"
+  title: "Director of Marketing"
+  thumbnailUrl: yarenerol.jpg
+  team: true
+- 
+  id: 9
+  name: "Yağmur"
+  surname: "Gül"
+  title: "Director of Marketing"
+  thumbnailUrl: yagmurgul.jpg
+  team: true
+  
+- 
+  id: 10
+  name: "Hüseyin Alp"
+  surname: "Sudagezer"
+  title: "Director of Finance"
+  thumbnailUrl: huseyinalpsudagezer.jpg
+  team: true
+  
+
+- 
+  id: 11
+  name: "Buse Nur"
+  surname: "Sayıl"
+  title: "Master of Ceremony"
+  thumbnailUrl: busenursayil.jpg
+  team: true
+- 
+  id: 12
+  name: "Mahmut"
+  surname: "Güler"
+  title: "Master of Ceremony"
+  thumbnailUrl: mahmutguler.jpg
+  team: true
+  
+- 
+  id: 13
+  name: "Cem"
+  surname: "Haspolat"
+  title: "Director of Human Resources"
+  thumbnailUrl: cemhaspolat.jpg
+  team: true
+- 
+  id: 14
+  name: "Talha Mete"
+  surname: "Erdem"
+  title: "Director of Human Resources"
+  thumbnailUrl: talhameteerdem.jpg
+  team: true
+- 
+  id: 15
+  name: "Kubilay"
+  surname: "Çolak"
+  title: "Design Team"
+  thumbnailUrl: kubilaycolak.jpg
+  team: true
+- 
+  id: 16
+  name: "Derya Dilara"
+  surname: "Doğan"
+  title: "Design Team"
+  thumbnailUrl: deryadilaradogan.jpg
+  team: true
+  
