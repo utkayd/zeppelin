@@ -22,7 +22,8 @@
     - {name: "YeniBirİş", description: "YeniBirİş", link: "http://www.yenibiris.com/", imageUrl: "yenibiris.png", width: "120px"}
     - {name: "METUEvents", description: "METUEvents", link: "http://metuevents.com/", imageUrl: "metuevents.jpg", width: "120px"}
     - {name: "Radyo ÖDTÜ", description: "Radyo ÖDTÜ", link: "http://www.radyoodtu.com.tr/", imageUrl: "radyoodtu.png", width: "120px"}
- group: "Medya Sponsorları"
+- 
+  group: "Medya Sponsorları"
   elements: 
     - {name: "joyın App", description: "joyin App", link: "https://joyin.io/", imageUrl: "joyinlogo.png", width: "120px"}
     - {name: "Evrim Ağacı", description: "Evrim Ağacı", link: "http://www.evrimagaci.org/", imageUrl: "evrimagaci.png", width: "120px"}
