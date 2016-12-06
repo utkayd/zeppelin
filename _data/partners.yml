@@ -1,24 +1,24 @@
 - 
   group: "Platin Sponsor"
   elements: 
-    - {name: "ODTÜ Teknokent", description: "ODTÜ Teknokent", link: "", imageUrl: "odtuteknokent.png"}
+    - {name: "ODTÜ Teknokent", description: "ODTÜ Teknokent", link: "http://odtuteknokent.com.tr/tr", imageUrl: "odtuteknokent.png"}
 - 
   group: "Altın Sponsor"
   elements: 
-    - {name: "BMC", description: "BMC", link: "", imageUrl: "bmc.svg", width: "120px"}
+    - {name: "BMC", description: "BMC", link: "http://www.bmc.com.tr/", imageUrl: "bmc.svg", width: "120px"}
 - 
   group: "Gümüş Sponsorlar"
   elements: 
-    - {name: "Doğuş Teknoloji", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "DKÜP Teknoloji", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "dkup.png", width: "120px"}
+    - {name: "Doğuş Teknoloji", description: "Doğuş Teknoloji", link: "http://www.d-teknoloji.com.tr/ana-sayfa.aspx", imageUrl: "dogusteknoloji.png", width: "120px"}
+    - {name: "DKÜP Teknoloji", description: "DKÜP Teknoloji", link: "http://www.dkup.com.tr/", imageUrl: "dkup.png", width: "120px"}
 - 
   group: "Ürün Sponsorları"
   elements: 
-    - {name: "Nescafe", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "nescafe.png", width: "120px"}
-    - {name: "Marsu", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "Nescafe", description: "Nescafe", link: "https://www.nescafe.com.tr/", imageUrl: "nescafe.png", width: "120px"}
+    - {name: "Marsu", description: "Marsu", link: "http://marsu.gov.tr/", imageUrl: "google.svg", width: "120px"}
 - 
   group: "Reklam Sponsorları"
   elements: 
-    - {name: "YeniBirİş", description: "YeniBirİş", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "METUEvents", description: "METUEvents", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "mevuevents.jpg", width: "120px"}
-    - {name: "Radyo ÖDTÜ", description: "Radyo ÖDTÜ", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "radyoodtu.png", width: "120px"}
+    - {name: "YeniBirİş", description: "YeniBirİş", link: "http://www.yenibiris.com/", imageUrl: "google.svg", width: "120px"}
+    - {name: "METUEvents", description: "METUEvents", link: "http://metuevents.com/", imageUrl: "metuevents.jpg", width: "120px"}
+    - {name: "Radyo ÖDTÜ", description: "Radyo ÖDTÜ", link: "http://www.radyoodtu.com.tr/", imageUrl: "radyoodtu.png", width: "120px"}
