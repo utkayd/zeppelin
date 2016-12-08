@@ -15,7 +15,6 @@
   group: "Ürün Sponsorları"
   elements: 
     - {name: "Nescafe", description: "Nescafe", link: "https://www.nescafe.com.tr/", imageUrl: "nescafe.png", width: "120px"}
-    - {name: "Marsu", description: "Marsu", link: "http://marsu.gov.tr/", imageUrl: "marsu.png", width: "120px"}
 - 
   group: "Reklam Sponsorları"
   elements: 
