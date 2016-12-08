@@ -72,6 +72,47 @@
   thumbnailUrl: umutcanduman.jpg
   rockstar: true
   social: 
+- 
+  id: 10
+  name: "Ozanser"
+  surname: "Uğurlu"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ozanserugurlu.jpg
+  rockstar: true
+  social: 
+- 
+  id: 11
+  name: "Bayram"
+  surname: "Tekin"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: bayramtekin.jpg
+  rockstar: true
+  social: 
+- 
+  id: 12
+  name: "Rüştü"
+  surname: "Asyalı"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: rustuasyali.jpg
+  rockstar: true
+  social: 
+- 
+  id: 13
+  name: "Trio"
+  surname: "Anka"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: trioanka.jpg
+  rockstar: true
+  social: 
+
  
 
  
