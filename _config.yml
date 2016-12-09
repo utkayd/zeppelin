@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "TEDx METU"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "http://"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
