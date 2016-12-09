@@ -18,7 +18,7 @@
 - 
   group: "Reklam Sponsorları"
   elements: 
-    - {name: "YeniBirİş", description: "YeniBirİş", link: "http://www.yenibiris.com/", imageUrl: "yenibiris.png", width: "120px"}
+    - {name: "YeniBirİş", description: "YeniBirİş", link: "http://www.yenibiris.com/", imageUrl: "yenibiris.jpeg", width: "120px"}
     - {name: "METUEvents", description: "METUEvents", link: "http://metuevents.com/", imageUrl: "metuevents.jpg", width: "120px"}
     - {name: "Radyo ÖDTÜ", description: "Radyo ÖDTÜ", link: "http://www.radyoodtu.com.tr/", imageUrl: "radyoodtu.png", width: "120px"}
 - 
