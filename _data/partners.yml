@@ -15,6 +15,8 @@
   group: "Ürün Sponsorları"
   elements: 
     - {name: "Nescafe", description: "Nescafe", link: "https://www.nescafe.com.tr/", imageUrl: "nescafe.png", width: "120px"}
+    - {name: "kartPLAST", description: "kartPLAST", link: "http://www.kartplast.com/", imageUrl: "kartplast.png", width: "120px"}
+
 - 
   group: "Reklam Sponsorları"
   elements: 
