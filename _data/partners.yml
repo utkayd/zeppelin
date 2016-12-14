@@ -16,6 +16,7 @@
   elements: 
     - {name: "Nescafe", description: "Nescafe", link: "https://www.nescafe.com.tr/", imageUrl: "nescafe.png", width: "120px"}
     - {name: "kartPLAST", description: "kartPLAST", link: "http://www.kartplast.com/", imageUrl: "kartplast.png", width: "120px"}
+    - {name: "SUBWAY", description: "SUBWAY", link: "http://www.subway.com/tr-tr", imageUrl: "subway.jpg", width: "120px"}
 
 - 
   group: "Reklam Sponsorları"
@@ -29,3 +30,5 @@
     - {name: "joyın App", description: "joyin App", link: "https://joyin.io/", imageUrl: "joyinlogo.png", width: "90px"}
     - {name: "Evrim Ağacı", description: "Evrim Ağacı", link: "http://www.evrimagaci.org/", imageUrl: "evrimagaci.png", width: "120px"}
     - {name: "Pazarlama Türkiye", description: "Pazarlama Türkiye", link: "https://pazarlamaturkiye.com/", imageUrl: "pazarlamaturkiye.png", width: "120px"}
+    - {name: "fizikist", description: "fizikist", link: "http://www.fizikist.com/", imageUrl: "fizikist.jpg", width: "120px"}
+
