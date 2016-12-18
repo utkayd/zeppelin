@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "TEDx METU"
-description: "GDG DevFest is a set of events all around the world"
+title: "TEDx METU Ankara"
+description: "TEDxMETUAnkara ‘En iyi’ kavramını reddederek, her zaman daha iyisine odaklanarak sadece ODTÜ’de değil, ulusal ve uluslararası platformda yenilikçi, yaratıcı, girişimci ve sorun çözmeye odaklı bir gelecek yaratmak"
 baseurl: ""
 url: "http://"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsSiteUrl: "tedxmetuankara.com"
+siteVerification: "hjcJnfTQ74-qNzf-nvzs7EGWY4wwNLaMyS-WbqVIUIw"
 
 # Organizer Info
 organizerName: "METU ARGE Topluluğu"
@@ -27,8 +27,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://arge.metu.edu.tr"
 
 # Head
-metaKeywords: "event,tedx"
-twitterAccount: "@DevFest"
+metaKeywords: "event,tedx,tedxmetuankara,tedxmetu,"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
